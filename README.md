@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **C# and Java**
 
-- 👯 I’m looking to collaborate on **beginner projects**
-
-- 🤝 I’m looking for help to **get started with projects**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
