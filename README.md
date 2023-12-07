@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cy</h1>
+<h1 align="center">Hi 👋, I'm Cy (Sai)</h1>
 <h3 align="center">A passionate Dev</h3>
 
 - 🔭 I’m currently working on **school projects**
