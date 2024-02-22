@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **school projects**
 
-- 🌱 I’m currently learning **C# and Java**
+- 🌱 I’m currently learning **JavaScript, React, C#, Java, Kotlin, MongoDB and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
